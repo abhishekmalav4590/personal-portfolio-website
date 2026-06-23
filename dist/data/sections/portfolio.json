@@ -3,7 +3,7 @@
     "en": {
       "title": "Projects",
       "title_long_prefix": "Explore",
-      "title_long": "My **Cloud, DevOps & Automation Projects**"
+      "title_long": "My **Full Stack Projects**"
     }
   },
   "articles": [
@@ -14,36 +14,36 @@
       "locales": {},
       "categories": [
         {
-          "id": "cloud",
+          "id": "frontend",
           "locales": {
             "en": {
-              "singular": "Cloud",
-              "plural": "Cloud"
+              "singular": "Frontend",
+              "plural": "Frontend"
             }
           }
         },
         {
-          "id": "devops",
+          "id": "backend",
           "locales": {
             "en": {
-              "singular": "DevOps",
-              "plural": "DevOps"
+              "singular": "Backend",
+              "plural": "Backend"
             }
           }
         },
         {
-          "id": "productivity",
+          "id": "fullstack",
           "locales": {
             "en": {
-              "singular": "SaaS",
-              "plural": "SaaS"
+              "singular": "Full Stack",
+              "plural": "Full Stack"
             }
           }
         }
       ],
       "items": [
         {
-          "categoryId": "productivity",
+          "categoryId": "fullstack",
           "icon": {
             "img": "images/pictures/website icons.jpg",
             "fa": "",
@@ -55,27 +55,24 @@
           "links": [
             {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/elonerajeev/Pulse-Monitor.git"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Enterprise SaaS Monitoring Platform (CLI + Web): Pulse-Monitor",
-              "text": "**Sep 2024**: Developed and deployed an enterprise-grade CLI + SaaS monitoring platform delivering real-time system health and performance insights for production workloads. Implemented automated CI/CD using Jenkins, GitHub Actions, Docker, and Kubernetes to enable scalable, reliable deployments with integrated quality checks.",
+              "title": "Dooper \u2014 Smart Healthcare Platform",
+              "text": "Implemented scalable RESTful APIs, authentication systems, database management, and responsive user interfaces to deliver a seamless healthcare experience.",
               "tags": [
-                "SaaS Monitoring",
-                "CLI",
-                "Jenkins",
-                "CI/CD",
-                "GitHub Actions",
-                "Docker",
-                "Kubernetes"
+                "MERN",
+                "Healthcare",
+                "REST APIs",
+                "Authentication"
               ]
             }
           }
         },
         {
-          "categoryId": "devops",
+          "categoryId": "fullstack",
           "icon": {
             "img": "images/pictures/project-3tier.png",
             "fa": "",
@@ -87,26 +84,24 @@
           "links": [
             {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/elonerajeev/3-Tier-Architecture-Application"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Scalable Three-Tier Application Deployment on Kubernetes",
-              "text": "**Jun 2024**: Designed a production-ready 3-tier MERN architecture on Kubernetes with optimized resource allocation, reducing container image size by **40%**. Built a Jenkins CI/CD pipeline with secrets management and rollback support to enable zero-downtime deployments.",
+              "title": "Job Portal",
+              "text": "Developed a full-stack job portal enabling recruiters to post jobs and applicants to manage applications using React.js, Node.js, Express.js, and MongoDB.",
               "tags": [
-                "Kubernetes",
-                "MERN",
-                "Jenkins",
-                "CI/CD",
-                "Secrets Management",
-                "Zero-Downtime"
+                "React.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
               ]
             }
           }
         },
         {
-          "categoryId": "cloud",
+          "categoryId": "backend",
           "icon": {
             "img": "images/pictures/project1.jpg",
             "fa": "",
@@ -118,28 +113,24 @@
           "links": [
             {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/elonerajeev/Enterprise-Grade-Infrastructure-Automation-with-Terraform-AWS"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Enterprise-Grade Infrastructure Automation with Terraform and AWS",
-              "text": "**May 2024**: Provisioned scalable, highly available AWS infrastructure using Terraform modules, including Auto Scaling Groups, Load Balancers, and multi-AZ design. Reduced manual provisioning time by **80%** and implemented Prometheus, Grafana, and CloudWatch monitoring for proactive incident detection.",
+              "title": "Rumble Chat \u2014 Real-Time Chat Application",
+              "text": "Built a real-time chat platform using React.js, Node.js, Express.js, MongoDB, and Socket.IO with secure authentication, persistent storage, and responsive UI components.",
               "tags": [
-                "AWS",
-                "Terraform",
-                "Auto Scaling",
-                "Load Balancer",
-                "Multi-AZ",
-                "Prometheus",
-                "Grafana",
-                "CloudWatch"
+                "Socket.IO",
+                "Real-Time Chat",
+                "MERN",
+                "Authentication"
               ]
             }
           }
         },
         {
-          "categoryId": "cloud",
+          "categoryId": "fullstack",
           "icon": {
             "img": "images/svg/devops-dashboard.svg",
             "fa": "fa-solid fa-cloud",
@@ -151,21 +142,18 @@
           "links": [
             {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/elonerajeev/Multi-Cloud-DevOps-Deployment-Platform"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Multi-Cloud DevOps Deployment Platform",
-              "text": "Built a multi-cloud DevOps deployment platform to standardize CI/CD workflows across cloud environments with containerized services and Kubernetes orchestration. Improved release portability and operational consistency by unifying deployment automation patterns.",
+              "title": "Wedding Planner Website",
+              "text": "Developed a full-stack wedding planning platform using PHP Laravel, MySQL, HTML, CSS, and JavaScript with event management, guest tracking, budgeting, and responsive interfaces.",
               "tags": [
-                "Multi-Cloud",
-                "DevOps",
-                "CI/CD",
-                "Kubernetes",
-                "Docker",
-                "AWS",
-                "Azure"
+                "Laravel",
+                "MySQL",
+                "JavaScript",
+                "Responsive UI"
               ]
             }
           }

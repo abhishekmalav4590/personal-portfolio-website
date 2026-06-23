@@ -13,72 +13,9 @@
       "component": "ArticleThread",
       "config": {},
       "locales": {
-        "en": { "title": "Certifications" }
-      },
-      "items": [
-        {
-          "dates": {
-            "start": "2024",
-            "end": null
-          },
-          "links": [],
-          "locales": {
-            "en": {
-              "title": "DevOps Engineering Foundation",
-              "info": "L&T EduTech",
-              "text": "Completed structured training in DevOps workflows including CI/CD, containerization, cloud deployment practices, and release lifecycle fundamentals.",
-              "tags": ["DevOps", "CI/CD", "Containerization", "Cloud Deployment"]
-            }
-          }
-        },
-        {
-          "dates": {
-            "start": "2024",
-            "end": null
-          },
-          "links": [
-            {
-              "faIcon": "fa-solid fa-link",
-              "href": "documents/Introduction to the AWS Cloud.pdf"
-            }
-          ],
-          "locales": {
-            "en": {
-              "title": "AWS Cloud Practitioner Essentials",
-              "info": "Amazon Web Services (AWS)",
-              "text": "Validated core AWS cloud concepts including architecture, security, billing fundamentals, and service selection for real-world workloads.",
-              "tags": ["AWS", "Cloud", "Architecture", "Security"]
-            }
-          }
-        },
-        {
-          "dates": {
-            "start": "2024",
-            "end": null
-          },
-          "links": [
-            {
-              "faIcon": "fa-solid fa-link",
-              "href": "documents/Rajeev kumar_Fundamentals of Agile Methodology with DevOps Integration.pdf"
-            }
-          ],
-          "locales": {
-            "en": {
-              "title": "Fundamentals of Agile Methodology with DevOps Integration",
-              "info": "DevOps Process & Delivery Practices",
-              "text": "Completed training on Agile delivery models integrated with DevOps practices to improve collaboration, release speed, and deployment quality.",
-              "tags": ["Agile", "DevOps", "Release Management", "Team Collaboration"]
-            }
-          }
+        "en": {
+          "title": "Certifications"
         }
-      ]
-    },
-    {
-      "id": "achievements",
-      "component": "ArticleThread",
-      "config": {},
-      "locales": {
-        "en": { "title": "Achievements" }
       },
       "items": [
         {
@@ -89,40 +26,153 @@
           "links": [],
           "locales": {
             "en": {
-              "title": "Primary Cloud DevOps Ownership in Startup Team",
-              "info": "Zintellix™",
-              "text": "Led end-to-end DevOps and cloud responsibilities in a small product team, covering CI/CD, cloud deployments, release reliability, and operational support.",
-              "tags": ["Cloud DevOps", "CI/CD", "Production Operations", "Reliability"]
+              "title": "ReactJS Front-End Development",
+              "info": "Coursera",
+              "text": "React.js frontend development certification.",
+              "tags": [
+                "React.js",
+                "Frontend"
+              ]
             }
           }
         },
         {
           "dates": {
-            "start": "2024",
+            "start": "2025",
             "end": null
           },
           "links": [],
           "locales": {
             "en": {
-              "title": "Delivered Impactful Cloud/DevOps Project Outcomes",
-              "info": "Hands-on Engineering Projects",
-              "text": "Achieved measurable project outcomes including up to 80% reduction in manual provisioning effort, 40% container image optimization, and zero-downtime deployment pipelines.",
-              "tags": ["Terraform", "Kubernetes", "Automation", "Delivery Impact"]
+              "title": "Best Intern of the Year",
+              "info": "Resonance (2025)",
+              "text": "Recognized for strong internship performance and consistent delivery.",
+              "tags": [
+                "Award",
+                "Internship"
+              ]
             }
           }
         },
         {
           "dates": {
-            "start": "2024",
+            "start": "2025",
             "end": null
           },
           "links": [],
           "locales": {
             "en": {
-              "title": "Bronze/Gold Medal – DevOps & AWS",
-              "info": "AWS Skills Enhancement Program",
-              "text": "Recognized for outstanding performance in AWS and DevOps-focused training, demonstrating strong execution across cloud and automation competencies.",
-              "tags": ["AWS", "DevOps", "Cloud Engineering"]
+              "title": "Oracle Certified Professional",
+              "info": "APEX Cloud Development",
+              "text": "Oracle APEX cloud development credential.",
+              "tags": [
+                "Oracle",
+                "APEX",
+                "Cloud"
+              ]
+            }
+          }
+        },
+        {
+          "dates": {
+            "start": "2025",
+            "end": null
+          },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Accenture Data Analytics Virtual Experience",
+              "info": "Forage",
+              "text": "Completed data analytics virtual experience program.",
+              "tags": [
+                "Analytics",
+                "Forage"
+              ]
+            }
+          }
+        },
+        {
+          "dates": {
+            "start": "2025",
+            "end": null
+          },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Full Stack Development",
+              "info": "Infosys Springboard",
+              "text": "Full stack development certification.",
+              "tags": [
+                "Full Stack",
+                "Web Development"
+              ]
+            }
+          }
+        },
+        {
+          "dates": {
+            "start": "2025",
+            "end": null
+          },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Data Analysis with Python",
+              "info": "IBM",
+              "text": "IBM data analysis with Python certification.",
+              "tags": [
+                "Python",
+                "Data Analysis"
+              ]
+            }
+          }
+        },
+        {
+          "dates": {
+            "start": "2025",
+            "end": null
+          },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "IBM AI Developer Professional Certificate",
+              "info": "IBM",
+              "text": "Professional certificate covering AI developer fundamentals.",
+              "tags": [
+                "IBM",
+                "AI"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "achievements",
+      "component": "ArticleThread",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Achievements"
+        }
+      },
+      "items": [
+        {
+          "dates": {
+            "start": "2025",
+            "end": null
+          },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Co-Founder at KaleidoNex Technologies",
+              "info": "KaleidoNex Technologies",
+              "text": "Leading technical strategy, product architecture, team collaboration, and full-stack application delivery.",
+              "tags": [
+                "Leadership",
+                "MERN",
+                "Product Architecture"
+              ]
             }
           }
         }

@@ -12,27 +12,36 @@
       "component": "ArticleResume",
       "config": {},
       "locales": {
-        "en": { "title": "Download My Resume" }
+        "en": {
+          "title": "Download My Resume"
+        }
       },
       "items": [
         {
           "icon": {
             "img": "images/icons/resume.png",
             "fa": "fa-solid fa-file-pdf",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           },
           "links": [
             {
               "faIcon": "fa-solid fa-download",
-              "href": "/documents/Rajeev_Full_Stack_1yr.pdf",
+              "href": "/documents/abhishek-malav-resume.html",
               "target": "_blank"
             }
           ],
           "locales": {
             "en": {
-              "title": "Resume PDF",
+              "title": "Abhishek Malay Resume",
               "text": "Click the button below to view or download my latest resume.",
-              "tags": ["PDF", "Resume", "Download"]
+              "tags": [
+                "PDF",
+                "Resume",
+                "Download"
+              ]
             }
           }
         }

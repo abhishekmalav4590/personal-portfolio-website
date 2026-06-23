@@ -16,76 +16,110 @@
         {
           "icon": {
             "img": "",
-            "fa": "fa-solid fa-cloud-arrow-up",
-            "faColors": { "bg": "#0f172a", "fill": "#38bdf8" }
+            "fa": "fa-solid fa-rocket",
+            "faColors": {
+              "bg": "#111827",
+              "fill": "#38bdf8"
+            }
           },
           "dates": {
-            "start": "Oct 2025",
+            "start": "May 2025",
             "end": "now"
           },
           "locales": {
             "en": {
-              "title": "**Cloud DevOps Engineer**",
-              "info": "Zintellix™ · Internship · Jaipur, Rajasthan, India · On-site",
-              "text": "Serving as the primary Cloud DevOps Engineer in a small product team, owning end-to-end cloud and DevOps delivery. Managing Git/GitHub workflows, CI/CD pipelines, and production deployments across AWS and Azure with a strong focus on secure, repeatable release practices. Partnering closely with developers to improve deployment reliability, incident readiness, and overall release confidence.",
+              "title": "**Co-Founder**",
+              "info": "KaleidoNex Technologies",
+              "text": "Working as CTO and Co-Founder, leading development and maintenance of full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Overseeing technical strategy, product architecture, team collaboration, and scalable software deployment.",
               "tags": [
-                "AWS",
-                "Azure",
-                "CI/CD",
-                "GitHub Actions",
-                "Cloud Operations",
-                "Release Engineering"
+                "Leadership",
+                "MERN",
+                "Architecture",
+                "Deployment"
               ]
             }
           }
         },
         {
           "icon": {
-            "img": "images/pictures/company3.jpg",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "img": "",
+            "fa": "fa-solid fa-code",
+            "faColors": {
+              "bg": "#0B3B2E",
+              "fill": "#5EF3B3"
+            }
           },
           "dates": {
-            "start": "May 2023",
-            "end": "May 2025"
+            "start": "Jan 2026",
+            "end": "Jun 2026"
           },
           "locales": {
             "en": {
-              "title": "**DevOps Engineer**",
-              "info": "L&T EduTech · Trainee · Jodhpur, Rajasthan, India · On-site",
-              "text": "Completed structured DevOps and cloud training with hands-on implementation of Linux administration, automation workflows, and CI/CD delivery pipelines. Built a strong engineering foundation in cloud resource management, monitoring, troubleshooting, and reliability-focused operations. This role established disciplined execution for production-ready DevOps practices.",
+              "title": "**MERN Stack Developer**",
+              "info": "Aaklan IT Solutions",
+              "text": "Developed and maintained full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Built scalable APIs, integrated databases, and enhanced application performance and user experience.",
               "tags": [
-                "Linux",
-                "CI/CD",
-                "Cloud Infrastructure",
-                "Monitoring",
-                "Troubleshooting",
-                "Automation"
+                "MongoDB",
+                "Express.js",
+                "React.js",
+                "Node.js",
+                "APIs"
               ]
             }
           }
         },
         {
           "icon": {
-            "img": "images/pictures/company1.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "img": "",
+            "fa": "fa-solid fa-laptop-code",
+            "faColors": {
+              "bg": "#3F2A00",
+              "fill": "#FFD166"
+            }
           },
           "dates": {
-            "start": "May 2024",
-            "end": "Jul 2024"
+            "start": "Jun 2025",
+            "end": "Oct 2025"
           },
           "locales": {
             "en": {
-              "title": "**Full Stack Development**",
-              "info": "Zeetron Networks Pvt. Ltd. India · Internship · Jaipur, Rajasthan, India · Remote",
-              "text": "Contributed to building and maintaining web application modules with backend API integration and collaborative feature delivery. Strengthened execution in structured sprint workflows, version-controlled releases, and production-minded quality practices. This internship improved cross-functional communication and delivery discipline for real project environments.",
+              "title": "**Full Stack Web Developer**",
+              "info": "Creato Software",
+              "text": "Developed and enhanced web applications using PHP Laravel, JavaScript, HTML, CSS, and MySQL. Designed backend modules, database integration, and responsive user interfaces for scalable solutions.",
               "tags": [
-                "Software Development",
+                "Laravel",
+                "JavaScript",
+                "MySQL",
+                "HTML",
+                "CSS"
+              ]
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "",
+            "fa": "fa-solid fa-server",
+            "faColors": {
+              "bg": "#1E3A8A",
+              "fill": "#BFDBFE"
+            }
+          },
+          "dates": {
+            "start": "May 2025",
+            "end": "Jun 2025"
+          },
+          "locales": {
+            "en": {
+              "title": "**Backend Developer Intern**",
+              "info": "Celebal Technologies",
+              "text": "Developed backend functionalities and RESTful APIs using Node.js, Express.js, and MongoDB. Performed API testing using Postman and implemented efficient database management solutions.",
+              "tags": [
+                "Node.js",
+                "Express.js",
+                "MongoDB",
                 "REST APIs",
-                "Team Collaboration",
-                "Delivery Workflow",
-                "Version Control"
+                "Postman"
               ]
             }
           }

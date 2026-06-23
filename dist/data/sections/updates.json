@@ -1,10 +1,10 @@
 {
   "locales": {
     "en": {
-      "title": "DevOps Highlights",
+      "title": "Highlights",
       "title_menu": "Updates",
       "title_long_prefix": "Take a look at my",
-      "title_long": "Recent **Cloud & DevOps Updates**"
+      "title_long": "Recent **Full Stack Updates**"
     }
   },
   "articles": [
@@ -23,7 +23,7 @@
           "locales": {
             "en": {
               "title": "01+",
-              "info": "Year in Cloud DevOps Engineering"
+              "info": "Year of full-stack project work"
             }
           }
         },
@@ -36,7 +36,7 @@
           "locales": {
             "en": {
               "title": "04",
-              "info": "Cloud & DevOps Projects Delivered"
+              "info": "Full-stack projects showcased"
             }
           }
         },
@@ -48,8 +48,8 @@
           },
           "locales": {
             "en": {
-              "title": "80%",
-              "info": "Provisioning Time Reduced via Automation"
+              "title": "08.0",
+              "info": "Current B.Tech CGPA"
             }
           }
         },
@@ -61,8 +61,8 @@
           },
           "locales": {
             "en": {
-              "title": "40%",
-              "info": "Container Image Optimization Achieved"
+              "title": "07+",
+              "info": "Certifications and awards"
             }
           }
         }
@@ -73,96 +73,93 @@
       "component": "ArticleThread",
       "config": {},
       "locales": {
-        "en": { "title": "Recent Updates" }
+        "en": {
+          "title": "Recent Updates"
+        }
       },
       "items": [
         {
           "dates": {
-            "start": "10/01/2025",
+            "start": "05/01/2025",
             "end": null
           },
           "links": [],
           "locales": {
             "en": {
-              "title": "Started as **Cloud DevOps Engineer** at Zintellix™",
-              "info": "Zintellix™ · Jaipur, Rajasthan · On-site",
-              "text": "Took ownership of cloud and DevOps operations in a product-focused startup environment, handling CI/CD pipelines, release workflows, infrastructure management, and deployment reliability."
+              "title": "Started as **Co-Founder** at KaleidoNex Technologies",
+              "info": "KaleidoNex Technologies",
+              "text": "Started leading full-stack product development, technical strategy, architecture, collaboration, and deployment."
             }
           }
         },
         {
           "dates": {
-            "start": "02/10/2026",
+            "start": "01/01/2026",
             "end": null
           },
-          "links": [
-            {
-              "string": "see_project",
-              "href": "https://github.com/elonerajeev/Multi-Cloud-DevOps-Deployment-Platform"
-            }
-          ],
+          "links": [],
           "locales": {
             "en": {
-              "title": "Published **Multi-Cloud DevOps Deployment Platform**",
-              "info": "AWS + Azure · Kubernetes · CI/CD",
-              "text": "Built a multi-cloud deployment platform to standardize release workflows across cloud providers, improving portability, orchestration consistency, and deployment confidence."
+              "title": "Joined **Aaklan IT Solutions** as MERN Stack Developer",
+              "info": "MERN \u00b7 APIs \u00b7 Database Integration",
+              "text": "Developed and maintained MERN applications with scalable APIs, database integration, and improved user experience."
             }
           }
         },
         {
           "dates": {
-            "start": "09/01/2024",
+            "start": "06/01/2025",
             "end": null
           },
           "links": [
             {
               "string": "see_project",
-              "href": "https://github.com/elonerajeev/Pulse-Monitor.git"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Built **Enterprise SaaS Monitoring Platform: Pulse-Monitor**",
-              "info": "CLI + Web · Real-Time Observability",
-              "text": "Developed and deployed a monitoring platform delivering real-time service health insights for production workloads, with automated deployment workflows using Jenkins, GitHub Actions, Docker, and Kubernetes."
+              "title": "Built **Job Portal** full-stack project",
+              "info": "React.js \u00b7 Node.js \u00b7 Express.js \u00b7 MongoDB",
+              "text": "Created a job portal for recruiters to post jobs and applicants to manage applications."
             }
           }
         },
         {
           "dates": {
-            "start": "06/01/2024",
+            "start": "05/01/2025",
             "end": null
           },
           "links": [
             {
               "string": "see_project",
-              "href": "https://github.com/elonerajeev/3-Tier-Architecture-Application"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Deployed **Scalable 3-Tier MERN on Kubernetes**",
-              "info": "Kubernetes · Jenkins CI/CD · Zero-Downtime",
-              "text": "Designed production-ready 3-tier architecture and implemented CI/CD with secrets management and rollback support. Optimized container resources and achieved up to 40% image size reduction."
+              "title": "Built **Rumble Chat** real-time application",
+              "info": "Socket.IO \u00b7 MERN \u00b7 Authentication",
+              "text": "Created a real-time chat platform with secure authentication, persistent chat storage, and responsive UI components."
             }
           }
         },
         {
           "dates": {
-            "start": "05/01/2024",
+            "start": "05/01/2025",
             "end": null
           },
           "links": [
             {
               "string": "see_project",
-              "href": "https://github.com/elonerajeev/Enterprise-Grade-Infrastructure-Automation-with-Terraform-AWS"
+              "href": "https://github.com/"
             }
           ],
           "locales": {
             "en": {
-              "title": "Implemented **Terraform + AWS Infrastructure Automation**",
-              "info": "Auto Scaling · Load Balancing · Multi-AZ",
-              "text": "Provisioned scalable AWS infrastructure through reusable Terraform modules, reducing manual provisioning effort by 80% and integrating observability with Prometheus, Grafana, and CloudWatch."
+              "title": "Developed **Dooper** healthcare platform",
+              "info": "MERN \u00b7 REST APIs \u00b7 Authentication",
+              "text": "Implemented scalable APIs, authentication systems, database management, and responsive healthcare interfaces."
             }
           }
         }
