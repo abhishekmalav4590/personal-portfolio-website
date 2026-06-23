@@ -3,11 +3,10 @@
     "en": {
       "title": "Welcome!",
       "title_menu": "About me",
-      "title_long_prefix": "Cloud Infrastructure & DevOps Engineering",
-      "title_long": "I'm **Rajeev Kumar**"
+      "title_long_prefix": "Full Stack Web Development",
+      "title_long": "I'm **Abhishek Malay**"
     }
   },
-
   "articles": [
     {
       "id": "contact_list",
@@ -19,72 +18,100 @@
       "locales": {
         "en": {}
       },
-
       "items": [
         {
           "value": "India",
-          "links": [{ "href": null }],
+          "links": [
+            {
+              "href": null
+            }
+          ],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-city",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           }
         },
         {
-          "value": "rajeevkumarx12@gmail.com",
-          "links": [{ "href": "mailto:rajeevkumarx12@gmail.com" }],
+          "value": "abhishek.22jics177@jietjodhpur.ac.in",
+          "links": [
+            {
+              "href": "mailto:abhishek.22jics177@jietjodhpur.ac.in"
+            }
+          ],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           }
         },
         {
-          "value": "@elonerajeev",
-          "links": [{ "href": "https://github.com/elonerajeev" }],
+          "value": "GitHub",
+          "links": [
+            {
+              "href": "https://github.com/"
+            }
+          ],
           "icon": {
             "img": null,
             "fa": "fa-brands fa-github",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           }
         },
-
         {
-          "value": "@heyrajeev1",
-          "links": [{ "href": "https://www.linkedin.com/in/heyrajeev1/" }],
+          "value": "LinkedIn",
+          "links": [
+            {
+              "href": "https://www.linkedin.com/"
+            }
+          ],
           "icon": {
             "img": null,
             "fa": "fa-brands fa-linkedin",
-            "faColors": { "bg": null, "fill": null }
-          }
-        }
-      ]
-    },
-
-    {
-      "id": "short_description",
-      "component": "ArticleInfoBlock",
-      "config": {},
-      "locales": {
-        "en": { "title": "Cloud & DevOps **Engineer** Profile" }
-      },
-
-      "items": [
-        {
-          "icon": {
-            "img": "images/svg/devops-dashboard.svg",
-            "fa": null,
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": {
-              "text": "<p>I am a <b>Cloud & DevOps Engineer</b> with <b>1+ years of hands-on experience</b> delivering reliable cloud environments and automated release systems. My focus is production readiness, stability, and high deployment confidence.</p><p>I design and maintain <b>CI/CD pipelines</b>, container platforms with <b>Docker + Kubernetes</b>, serverless workloads on <b>AWS</b>, and infrastructure provisioning through <b>Terraform</b>. I also work with monitoring and alerting practices to keep systems observable and resilient.</p><p>I care about measurable outcomes: faster and safer releases, reduced operational risk, improved uptime, and cloud infrastructure that scales cleanly with business needs.</p>"
+            "faColors": {
+              "bg": null,
+              "fill": null
             }
           }
         }
       ]
     },
-
+    {
+      "id": "short_description",
+      "component": "ArticleInfoBlock",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Full Stack **Developer** Profile"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/svg/devops-dashboard.svg",
+            "fa": null,
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "locales": {
+            "en": {
+              "text": "<p>I am <b>Abhishek Malay</b>, a Computer Science & Engineering student and <b>Full Stack Web Developer</b> focused on building scalable MERN and PHP/Laravel applications.</p><p>I work with <b>MongoDB, Express.js, React.js, Node.js, PHP Laravel, MySQL, REST APIs, JWT authentication</b>, and responsive interfaces. I enjoy turning product ideas into reliable web applications with clean APIs, secure authentication, and maintainable user experiences.</p><p>My experience includes co-founding KaleidoNex Technologies and contributing to healthcare, job portal, real-time chat, and wedding planning platforms.</p>"
+            }
+          }
+        }
+      ]
+    },
     {
       "id": "interests",
       "component": "ArticleGrid",
@@ -101,13 +128,16 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-aws",
-            "faColors": { "bg": "#232F3E", "fill": "#FF9900" }
+            "faColors": {
+              "bg": "#232F3E",
+              "fill": "#FF9900"
+            }
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "AWS Cloud Architecture",
-              "info": "Designing secure and scalable AWS solutions with serverless patterns, networking, IAM, and production-grade deployment strategies."
+              "title": "MERN Stack Development",
+              "info": "Building full-stack applications with MongoDB, Express.js, React.js, and Node.js."
             }
           }
         },
@@ -115,13 +145,16 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-diagram-project",
-            "faColors": { "bg": "#0B3B2E", "fill": "#5EF3B3" }
+            "faColors": {
+              "bg": "#0B3B2E",
+              "fill": "#5EF3B3"
+            }
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "CI/CD Pipeline Engineering",
-              "info": "Building automated build-test-deploy workflows with quality gates, version control integration, and rollback-safe release practices."
+              "title": "Backend APIs & Auth",
+              "info": "Designing REST APIs, database integrations, JWT authentication, and secure server-side workflows."
             }
           }
         },
@@ -129,13 +162,16 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-dharmachakra",
-            "faColors": { "bg": "#1E3A8A", "fill": "#BFDBFE" }
+            "faColors": {
+              "bg": "#1E3A8A",
+              "fill": "#BFDBFE"
+            }
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Kubernetes & Containers",
-              "info": "Managing containerized services with Docker and Kubernetes for scalable orchestration, service reliability, and operational consistency."
+              "title": "Responsive Frontend UI",
+              "info": "Creating clean, responsive interfaces with React.js, HTML, CSS, JavaScript, and Bootstrap."
             }
           }
         },
@@ -143,19 +179,21 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-chart-line",
-            "faColors": { "bg": "#3F2A00", "fill": "#FFD166" }
+            "faColors": {
+              "bg": "#3F2A00",
+              "fill": "#FFD166"
+            }
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Observability & Reliability",
-              "info": "Implementing monitoring, logging, and alerting practices to improve uptime, incident response, and platform health visibility."
+              "title": "Product & Team Leadership",
+              "info": "Leading technical execution, product architecture, collaboration, and deployment decisions as a co-founder."
             }
           }
         }
       ]
     },
-
     {
       "id": "devops_pipeline",
       "component": "ArticleCards",
@@ -164,7 +202,7 @@
       },
       "locales": {
         "en": {
-          "title": "DevOps **Pipeline & Tools**"
+          "title": "Full Stack **Tools & Workflow**"
         }
       },
       "items": [
@@ -172,12 +210,15 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-github",
-            "faColors": {"bg": "#181717", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#181717",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
               "title": "Source Control",
-              "info": "Git, GitHub, GitLab"
+              "info": "Git, GitHub, version control"
             }
           }
         },
@@ -185,12 +226,15 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-code-branch",
-            "faColors": {"bg": "#2088FF", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#2088FF",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
               "title": "CI/CD",
-              "info": "GitHub Actions, Jenkins, GitLab CI"
+              "info": "React.js, Bootstrap, HTML, CSS, JavaScript"
             }
           }
         },
@@ -198,12 +242,15 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-docker",
-            "faColors": {"bg": "#2496ED", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#2496ED",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
               "title": "Containerization",
-              "info": "Docker, Docker Compose"
+              "info": "Node.js, Express.js, PHP Laravel"
             }
           }
         },
@@ -211,12 +258,15 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-dharmachakra",
-            "faColors": {"bg": "#326CE5", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#326CE5",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
               "title": "Orchestration",
-              "info": "Kubernetes, ECS, EKS"
+              "info": "MongoDB, MySQL, REST APIs"
             }
           }
         },
@@ -224,7 +274,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-aws",
-            "faColors": {"bg": "#FF9900", "fill": "#232F3E"}
+            "faColors": {
+              "bg": "#FF9900",
+              "fill": "#232F3E"
+            }
           },
           "locales": {
             "en": {
@@ -237,7 +290,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-cube",
-            "faColors": {"bg": "#7B42BC", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#7B42BC",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
@@ -250,7 +306,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-chart-line",
-            "faColors": {"bg": "#E6522C", "fill": "#FFF"}
+            "faColors": {
+              "bg": "#E6522C",
+              "fill": "#FFF"
+            }
           },
           "locales": {
             "en": {
@@ -263,7 +322,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-linux",
-            "faColors": {"bg": "#FCC624", "fill": "#000"}
+            "faColors": {
+              "bg": "#FCC624",
+              "fill": "#000"
+            }
           },
           "locales": {
             "en": {

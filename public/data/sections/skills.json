@@ -2,25 +2,29 @@
   "locales": {
     "en": {
       "title": "Skills",
-      "title_long_prefix": "Cloud & DevOps",
-      "title_long": "My **1 Year Skill Set**"
+      "title_long_prefix": "Full Stack",
+      "title_long": "My **Technical Skill Set**"
     }
   },
-
   "articles": [
     {
       "id": "capabilities",
       "component": "ArticleCards",
       "config": {},
       "locales": {
-        "en": { "title": "Core Capability Areas" }
+        "en": {
+          "title": "Core Capability Areas"
+        }
       },
       "items": [
         {
           "icon": {
             "img": null,
             "fa": "fa-solid fa-cloud",
-            "faColors": { "bg": "#1E3A8A", "fill": "#BFDBFE" }
+            "faColors": {
+              "bg": "#1E3A8A",
+              "fill": "#BFDBFE"
+            }
           },
           "dates": {
             "start": "2025",
@@ -28,8 +32,8 @@
           },
           "locales": {
             "en": {
-              "title": "Cloud Infrastructure",
-              "text": "1 year of hands-on AWS infrastructure work focused on reliability, scalability, and clean deployment structure."
+              "title": "Frontend Development",
+              "text": "React.js, HTML, CSS, JavaScript, and Bootstrap for responsive user interfaces."
             }
           }
         },
@@ -37,7 +41,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-diagram-project",
-            "faColors": { "bg": "#0B3B2E", "fill": "#5EF3B3" }
+            "faColors": {
+              "bg": "#0B3B2E",
+              "fill": "#5EF3B3"
+            }
           },
           "dates": {
             "start": "2025",
@@ -45,8 +52,8 @@
           },
           "locales": {
             "en": {
-              "title": "CI/CD & Automation",
-              "text": "1 year building CI/CD pipelines with repeatable build, test, and deployment automation."
+              "title": "Backend Development",
+              "text": "Node.js, Express.js, PHP Laravel, REST APIs, and JWT authentication for secure services."
             }
           }
         },
@@ -54,7 +61,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-chart-line",
-            "faColors": { "bg": "#3F2A00", "fill": "#FFD166" }
+            "faColors": {
+              "bg": "#3F2A00",
+              "fill": "#FFD166"
+            }
           },
           "dates": {
             "start": "2025",
@@ -62,28 +72,31 @@
           },
           "locales": {
             "en": {
-              "title": "Observability & Operations",
-              "text": "1 year using monitoring and logs to improve uptime, visibility, and incident response quality."
+              "title": "Database & Tools",
+              "text": "MongoDB, MySQL, Git, GitHub, Postman, VS Code, Linux, Tableau, Power BI, and Seaborn."
             }
           }
         }
       ]
     },
-
     {
       "id": "cloud_technologies",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Cloud" }
+        "en": {
+          "title": "Cloud"
+        }
       },
-
       "items": [
         {
           "icon": {
             "img": null,
             "fa": "fa-brands fa-aws",
-            "faColors": { "bg": "#FFD700", "fill": "#111" }
+            "faColors": {
+              "bg": "#FFD700",
+              "fill": "#111"
+            }
           },
           "value": 83,
           "dates": {
@@ -100,7 +113,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-microsoft",
-            "faColors": { "bg": "#0078D4", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#0078D4",
+              "fill": "#EEE"
+            }
           },
           "value": 55,
           "dates": {
@@ -117,7 +133,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-google",
-            "faColors": { "bg": "#4285F4", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#4285F4",
+              "fill": "#EEE"
+            }
           },
           "value": 50,
           "dates": {
@@ -132,21 +151,24 @@
         }
       ]
     },
-
     {
       "id": "devops_tools",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "DevOps" }
+        "en": {
+          "title": "Backend & Tools"
+        }
       },
-
       "items": [
         {
           "icon": {
             "img": null,
             "fa": "fa-brands fa-docker",
-            "faColors": { "bg": "#2496ED", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#2496ED",
+              "fill": "#EEE"
+            }
           },
           "value": 80,
           "dates": {
@@ -163,7 +185,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-dharmachakra",
-            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#326CE5",
+              "fill": "#EEE"
+            }
           },
           "value": 74,
           "dates": {
@@ -180,7 +205,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-jenkins",
-            "faColors": { "bg": "#D33833", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#D33833",
+              "fill": "#EEE"
+            }
           },
           "value": 72,
           "dates": {
@@ -197,7 +225,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-github",
-            "faColors": { "bg": "#161B22", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#161B22",
+              "fill": "#EEE"
+            }
           },
           "value": 78,
           "dates": {
@@ -214,7 +245,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-git",
-            "faColors": { "bg": "#F05032", "fill": "#111" }
+            "faColors": {
+              "bg": "#F05032",
+              "fill": "#111"
+            }
           },
           "value": 82,
           "dates": {
@@ -231,7 +265,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-cubes",
-            "faColors": { "bg": "#623CE4", "fill": "#EEE" }
+            "faColors": {
+              "bg": "#623CE4",
+              "fill": "#EEE"
+            }
           },
           "value": 72,
           "dates": {
@@ -248,7 +285,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-boxes-stacked",
-            "faColors": { "bg": "#0F766E", "fill": "#CCFBF1" }
+            "faColors": {
+              "bg": "#0F766E",
+              "fill": "#CCFBF1"
+            }
           },
           "value": 66,
           "dates": {
@@ -265,7 +305,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-chart-line",
-            "faColors": { "bg": "#E6522C", "fill": "#FEE2E2" }
+            "faColors": {
+              "bg": "#E6522C",
+              "fill": "#FEE2E2"
+            }
           },
           "value": 70,
           "dates": {
@@ -282,7 +325,10 @@
           "icon": {
             "img": null,
             "fa": "fa-brands fa-linux",
-            "faColors": { "bg": "#FCC624", "fill": "#111" }
+            "faColors": {
+              "bg": "#FCC624",
+              "fill": "#111"
+            }
           },
           "value": 80,
           "dates": {
@@ -297,21 +343,24 @@
         }
       ]
     },
-
     {
       "id": "other_skills",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Engineering Skills" }
+        "en": {
+          "title": "Engineering Skills"
+        }
       },
-
       "items": [
         {
           "icon": {
             "img": null,
             "fa": "fa-solid fa-terminal",
-            "faColors": { "bg": "#1F2937", "fill": "#93C5FD" }
+            "faColors": {
+              "bg": "#1F2937",
+              "fill": "#93C5FD"
+            }
           },
           "value": 76,
           "dates": {
@@ -328,7 +377,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-shield-halved",
-            "faColors": { "bg": "#14532D", "fill": "#DCFCE7" }
+            "faColors": {
+              "bg": "#14532D",
+              "fill": "#DCFCE7"
+            }
           },
           "value": 70,
           "dates": {
@@ -345,7 +397,10 @@
           "icon": {
             "img": null,
             "fa": "fa-solid fa-screwdriver-wrench",
-            "faColors": { "bg": "#3F3F46", "fill": "#E4E4E7" }
+            "faColors": {
+              "bg": "#3F3F46",
+              "fill": "#E4E4E7"
+            }
           },
           "value": 74,
           "dates": {
@@ -360,30 +415,39 @@
         }
       ]
     },
-
     {
       "id": "languages",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Languages" },
-        "hi": { "title": "भाषा" }
+        "en": {
+          "title": "Languages"
+        },
+        "hi": {
+          "title": "\u092d\u093e\u0937\u093e"
+        }
       },
-
       "items": [
         {
           "icon": {
             "img": "images/flags/en.png",
             "fa": null,
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           },
           "value": null,
-          "dates": { "start": null },
+          "dates": {
+            "start": null
+          },
           "locales": {
             "en": {
               "title": "English",
               "info": "Professional working proficiency in verbal and written communication.",
-              "tags": ["Professional"]
+              "tags": [
+                "Professional"
+              ]
             }
           }
         },
@@ -391,15 +455,22 @@
           "icon": {
             "img": "images/flags/hi.jpg",
             "fa": null,
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           },
           "value": null,
-          "dates": { "start": null },
+          "dates": {
+            "start": null
+          },
           "locales": {
             "en": {
               "title": "Hindi",
               "info": "Expert speaker with excellent communication and writing skills; Mother tongue.",
-              "tags": ["Expert"]
+              "tags": [
+                "Expert"
+              ]
             }
           }
         }

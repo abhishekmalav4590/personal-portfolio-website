@@ -12,7 +12,9 @@
       "component": "ArticleContactForm",
       "config": {},
       "locales": {
-        "en": { "title": "Send me a **message**" }
+        "en": {
+          "title": "Send me a **message**"
+        }
       },
       "items": null
     },
@@ -23,47 +25,73 @@
         "format": "grid"
       },
       "locales": {
-        "en": { "title": "Or if you **prefer**..." }
+        "en": {
+          "title": "Or if you **prefer**..."
+        }
       },
       "items": [
         {
-          "value": "elonerajeev@gmail.com",
-          "links": [{ "href": "mailto:elonerajeev@gmail.com" }],
+          "value": "abhishek.22jics177@jietjodhpur.ac.in",
+          "links": [
+            {
+              "href": "mailto:abhishek.22jics177@jietjodhpur.ac.in"
+            }
+          ],
           "icon": {
             "fa": "fa-solid fa-envelope"
           },
           "locales": {
-            "en": { "title": "E-mail" }
+            "en": {
+              "title": "E-mail"
+            }
           }
         },
         {
-          "value": "linkedin.com/in/heyrajeev1/",
-          "links": [{ "href": "https://linkedin.com/in/heyrajeev1/" }],
+          "value": "LinkedIn",
+          "links": [
+            {
+              "href": "https://www.linkedin.com/"
+            }
+          ],
           "icon": {
             "fa": "fa-brands fa-linkedin"
           },
           "locales": {
-            "en": { "title": "LinkedIn" }
+            "en": {
+              "title": "LinkedIn"
+            }
           }
         },
         {
-          "value": "github.com/elonerajeev",
-          "links": [{ "href": "https://github.com/elonerajeev" }],
+          "value": "GitHub",
+          "links": [
+            {
+              "href": "https://github.com/"
+            }
+          ],
           "icon": {
             "fa": "fa-brands fa-github"
           },
           "locales": {
-            "en": { "title": "GitHub" }
+            "en": {
+              "title": "GitHub"
+            }
           }
         },
         {
-          "value": "twitter.com/rajeev02030066",
-          "links": [{ "href": "https://twitter.com/rajeev02030066" }],
+          "value": "Phone: +91-9694817061",
+          "links": [
+            {
+              "href": "tel:+919694817061"
+            }
+          ],
           "icon": {
-            "fa": "fa-brands fa-twitter"
+            "fa": "fa-solid fa-phone"
           },
           "locales": {
-            "en": { "title": "Twitter" }
+            "en": {
+              "title": "Phone"
+            }
           }
         }
       ]
