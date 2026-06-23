@@ -5,7 +5,8 @@ const Resume = ({ data }) => {
   const parser = useParser();
   const parsedData = parser.parseArticleData(data);
   const resumeItem = parser.parseArticleItems(parsedData.items)[0];
-  const resumeUrl = resumeItem.firstLink.href;
+  const resumePreviewUrl = resumeItem.firstLink.href;
+  const resumeDownloadUrl = resumeItem.links?.[1]?.href || resumePreviewUrl;
 
   return (
     <div
@@ -45,7 +46,7 @@ const Resume = ({ data }) => {
         }}
       >
         <iframe
-          src={resumeUrl}
+          src={resumePreviewUrl}
           width="100%"
           height="100%"
           style={{ border: "none" }}
@@ -55,7 +56,7 @@ const Resume = ({ data }) => {
       </div>
 
       <a
-        href={resumeUrl}
+        href={resumeDownloadUrl}
         download
         target="_blank"
         rel="noopener noreferrer"

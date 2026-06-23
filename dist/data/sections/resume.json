@@ -12,27 +12,41 @@
       "component": "ArticleResume",
       "config": {},
       "locales": {
-        "en": { "title": "Download My Resume" }
+        "en": {
+          "title": "Download My Resume"
+        }
       },
       "items": [
         {
           "icon": {
             "img": "images/icons/resume.png",
             "fa": "fa-solid fa-file-pdf",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
           },
           "links": [
             {
+              "faIcon": "fa-solid fa-eye",
+              "href": "https://drive.google.com/file/d/1iS76t0zFdYM59qLQIo9a-gHI3nd8P_51/preview",
+              "target": "_blank"
+            },
+            {
               "faIcon": "fa-solid fa-download",
-              "href": "/documents/Rajeev_Full_Stack_1yr.pdf",
+              "href": "https://drive.google.com/uc?export=download&id=1iS76t0zFdYM59qLQIo9a-gHI3nd8P_51",
               "target": "_blank"
             }
           ],
           "locales": {
             "en": {
-              "title": "Resume PDF",
-              "text": "Click the button below to view or download my latest resume.",
-              "tags": ["PDF", "Resume", "Download"]
+              "title": "Abhishek Malay Resume",
+              "text": "View or download my latest resume from Google Drive.",
+              "tags": [
+                "PDF",
+                "Resume",
+                "Download"
+              ]
             }
           }
         }
